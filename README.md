@@ -13,7 +13,7 @@
 5. HtmlPage1.html
 6. HakkındaOgrenci.html
 7. WebApplication10
-# Hakkında Araçlar
+# Kullanılan Araçlar
 1. HTML
 2. CSS
 3. Javascript

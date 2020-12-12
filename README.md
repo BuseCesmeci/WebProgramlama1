@@ -18,6 +18,6 @@
 2. CSS
 3. Javascript
 4. BoopStrap
-# Bilgi Yazılımlar
+# Kullanılan Yazılımlar
 1. Visiual Studio
 

@@ -6,8 +6,13 @@
 ##### Tasarlayan: Buse ÇEŞMECİ Öğrenci No: 1030520793 Öğretim Üyesi: Dr.Fehim KÖYLÜ
 
 # Dosyalar
-1. 
-2.  
+1. 2020JPG.jpg
+2. balonJPG.jpg
+3. halkalar.svg
+4. index.html
+5. HtmlPage1.html
+6. HakkındaOgrenci.html
+7. WebApplication10
 # Hakkında Araçlar
 1. HTML
 2. CSS

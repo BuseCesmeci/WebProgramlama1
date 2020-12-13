@@ -17,7 +17,7 @@
 1. HTML
 2. CSS
 3. Javascript
-4. BoopStrap
+4. Bootstrap
 # Kullanılan Yazılımlar
 1. Visiual Studio
 
